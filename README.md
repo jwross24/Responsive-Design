@@ -39,8 +39,8 @@ git checkout -b <firstName-lastName-day2>
 Use the checklist below to guide your work today. Your final product should be presentable at mobile, tablet and a desktop-width.
 
 - [X] Insert a viewport meta tag into the head of the project with these html attributes: content="width=device-width, initial-scale=1"
-- [ ] Introduce max-width media queries into your project at 800px and 500px
-- [ ] Add accessibility features to your webpage
+- [X] Introduce max-width media queries into your project at 800px and 500px
+- [X] Add accessibility features to your webpage
 - [ ] Design should closely follow the [mobile wireframe](Wireframes/) given for your chosen layout
 
 
